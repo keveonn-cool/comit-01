@@ -29,6 +29,11 @@ public class Variable {
 			System.out.println("Not Equal "+s1+"-"+s2);
 		}
 		
+		int a= 10 , b=5;
+		
+		System.out.println((a)/b);
+		
+		
 	}
 
 	}
